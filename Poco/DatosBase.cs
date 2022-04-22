@@ -1,7 +1,8 @@
-namespace Escuela.Poco
+namespace CoreEscuela.Poco
 {
-    public class DatosBase
+    public abstract class DatosBase
     {
+        public string Id { get; set; }
         public string Nombre { get; set; }
     }
 }
