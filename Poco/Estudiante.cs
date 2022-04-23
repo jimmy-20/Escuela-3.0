@@ -1,7 +1,7 @@
 
 namespace CoreEscuela.Poco
 {
-    public class Estudiante
+    public class Estudiante:Persona
     {
         public string IdEstudiante { get; set; }
 
