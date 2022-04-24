@@ -1,4 +1,4 @@
-namespace Core.Poco
+namespace CoreEscuela.Poco
 {
     public abstract class Persona
     {
