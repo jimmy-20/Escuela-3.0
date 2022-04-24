@@ -5,6 +5,7 @@ namespace CoreEscuela.Poco
     {
         public string IdEstudiante { get; set; }
 
-        public Estudiante() => IdEstudiante = System.Guid.NewGuid().ToString();        
+        public Estudiante() => IdEstudiante = System.Guid.NewGuid().ToString();     
+        public List <Evaluacion> Evaluaciones { get; set; }   
     }
 }
