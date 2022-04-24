@@ -9,5 +9,5 @@ namespace CoreEscuela
             EscuelaEngine escuela = new EscuelaEngine("Soberana","Praderas de Sandino","78029756","soberana@gmail.com");
             WriteLine("Hola mundo");
         }
-    }
+    }    
 }
