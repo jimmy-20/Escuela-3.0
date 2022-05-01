@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeiso\\Desktop\\Escuela-3.0\\Escuela 3.0.csproj": {}
+    "C:\\Users\\Pc\\Desktop\\JASO\\Cursos\\Escuela 3.0\\Escuela 3.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeiso\\Desktop\\Escuela-3.0\\Escuela 3.0.csproj": {
+    "C:\\Users\\Pc\\Desktop\\JASO\\Cursos\\Escuela 3.0\\Escuela 3.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeiso\\Desktop\\Escuela-3.0\\Escuela 3.0.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Desktop\\JASO\\Cursos\\Escuela 3.0\\Escuela 3.0.csproj",
         "projectName": "Escuela 3.0",
-        "projectPath": "C:\\Users\\jeiso\\Desktop\\Escuela-3.0\\Escuela 3.0.csproj",
-        "packagesPath": "C:\\Users\\jeiso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeiso\\Desktop\\Escuela-3.0\\obj\\",
+        "projectPath": "C:\\Users\\Pc\\Desktop\\JASO\\Cursos\\Escuela 3.0\\Escuela 3.0.csproj",
+        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pc\\Desktop\\JASO\\Cursos\\Escuela 3.0\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jeiso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

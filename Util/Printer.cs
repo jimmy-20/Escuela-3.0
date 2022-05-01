@@ -24,5 +24,14 @@ namespace CoreEscuela.Util
                 break;
             }
         }
+
+        public static void Menu(){
+            WriteTitle("MENU");
+            WriteLine("1.Ver cursos ");
+            WriteLine("2.Ver Asignaturas ");
+            WriteLine("3.Ver Profesores ");
+            WriteLine("4.Ver Alumnos ");
+            WriteLine("5.Ver Evaluaciones ");
+        }
     }
 }

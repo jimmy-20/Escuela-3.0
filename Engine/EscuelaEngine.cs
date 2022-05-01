@@ -3,7 +3,7 @@ namespace CoreEscuela.Engine
 {
     public class EscuelaEngine
     {
-        private Escuela Escuela { get; set; }
+        public Escuela Escuela { get; private set; }
         public EscuelaEngine(string nombre, string direccion, string telefono, string correo) {
             this.Escuela = new Escuela{
                 Nombre = nombre,
@@ -13,5 +13,26 @@ namespace CoreEscuela.Engine
             };
         }
         
+        #region CargarEscuela
+        private void CargarCursos(){
+
+        }
+
+        private void CargarAsignaturas(){
+
+        }
+
+        private void CargarProfesores(){
+
+        }
+
+        private void CargarEstudiantes(){
+
+        }
+
+        private void CargarEvalauciones(){
+
+        }
+        #endregion
     }
 }
